@@ -54,7 +54,7 @@ h1 {
 h2 {
   font-size: 36px;
   color: #cc9900;
-  font-family: 'Tangerine', cursive;
+  font-family: 'Playfair Display', serif;
 }
 
 
@@ -74,7 +74,7 @@ a {
 }
 
 a:hover {
-  color: limegreen;
+  color: white;
   text-decoration: underline;
 }
 
