@@ -7,7 +7,7 @@ body {
   font-family: 'Roboto', 'Open Sans', sans-serif;
   font-size: 18px;
   text-align: center;
-  background-color: #FFFFFF;
+  background-color: #DEB887;
   color: #333;
   margin: 0;
   padding: 20px;
@@ -15,7 +15,7 @@ body {
 
 
 nav {
-  background-color: #6A5ACD;
+  background-color: #FFFFFF;
   padding: 15px;
   font-family: 'Playfair Display', serif;
 }
