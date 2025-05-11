@@ -39,6 +39,9 @@ nav ul li a:hover {
   color: black;
 }
 
+hideThis {
+  display: none;
+}
 
 h1 {
   font-size: 48px;
