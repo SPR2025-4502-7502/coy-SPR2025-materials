@@ -28,7 +28,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: white;
+  color: black;
   text-decoration: none;
   font-size: 20px;
   font-weight: bold;
@@ -76,10 +76,10 @@ a:hover {
 
 
 .image-style {
-  max-width: 200px;
+  max-width: 400px;
   height: auto;
   display: block;
-  margin: 10px auto;
+  margin: 20px auto;
   border-radius: 10px;
   border: 3px solid #cc9900;
 }
